@@ -56,6 +56,11 @@ function toggleMenu() {
     img: "/IMG-20260306-WA0004.jpg",
     price:1500,
     feature:true 
+    },
+    { name: "casual printed kurti",
+    img: "/IMG-20260306-WA0004.jpg",
+    price:1500,
+    feature:true 
     }
     ],
   wastern:[
