@@ -5,7 +5,7 @@ function toggleMenu() {
   // Products array
   const products = {
     ethics:[
-    { name: "casual kurti",img:"./images/IMG-20260308-WA0070.jpg", feature:true,price:500,buttontext:"view product"
+    { name: "casual kurti",img:"./Images/IMG-20260308-WA0070.jpg", feature:true,price:500,buttontext:"view product"
     }, // <-- This is the feature product
     { name: "casual printed kurti",
     img: "/IMG-20260306-WA0004.jpg",
